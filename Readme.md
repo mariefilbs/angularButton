@@ -1,4 +1,4 @@
-[Here is a link to my AngularJS button!](https://tiy-mariefilbey-angularButton.surge.sh)
+[Here is a link to my AngularJS button!](https://tiy-mariefilbey-angularbutton.surge.sh)
 
 ###Learning Objectives:###
 
